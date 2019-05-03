@@ -5,6 +5,14 @@ description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
   that's worth the effort every time.
+
+
+  Lorem ipsum dolor sit met, consectetur adipisicing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna a liqua. Ut enim ad minim venom, quis
+  nostrud exercitation ullamco laboris nisi ut aliquip ex ea comido consequat.
+  Luis aute irure dolor in reprehenderit in voluptate velit esse cillim dolore
+  eu fuggita nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+  sunt in culpa qui officia deserunt mollit animé id est labour.
 image: /img/blog-chemex.jpg
 ---
 
